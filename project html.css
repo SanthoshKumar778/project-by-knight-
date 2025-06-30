@@ -6,12 +6,17 @@ h1{
     color:red;
     text-align: center;
 }
-h2{
 
-    color: darkmagenta;
-    text-align: center;      
+.one{
+    font-size: 60px;
+    color:rgb(255, 187, 0);
+    text-align: center;
 }
+
 img{
     width: 500px;
+}
+.anchar{
+    background-color:rgb(68, 0, 255);
 }
 
